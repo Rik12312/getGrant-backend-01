@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "grants",
+  "info": {
+    "singularName": "grant",
+    "pluralName": "grants",
+    "displayName": "Grant"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "blocks"
+    },
+    "Date": {
+      "type": "date"
+    }
+  }
+}

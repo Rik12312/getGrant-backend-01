@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_components_mission_features",
+  "info": {
+    "displayName": "missionFeatures"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

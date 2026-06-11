@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_country_components_visa_info_items",
+  "info": {
+    "displayName": "VisaInfoItem"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

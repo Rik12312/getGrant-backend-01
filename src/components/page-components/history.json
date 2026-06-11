@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_components_histories",
+  "info": {
+    "displayName": "history"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

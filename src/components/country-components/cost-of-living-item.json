@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_country_components_cost_of_living_items",
+  "info": {
+    "displayName": "CostOfLivingItem"
+  },
+  "options": {},
+  "attributes": {
+    "categoryName": {
+      "type": "string"
+    },
+    "minPrice": {
+      "type": "integer"
+    },
+    "avgPrice": {
+      "type": "integer"
+    },
+    "maxPrice": {
+      "type": "integer"
+    }
+  },
+  "config": {}
+}

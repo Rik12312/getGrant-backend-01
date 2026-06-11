@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_components_licenses",
+  "info": {
+    "displayName": "licenses"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
